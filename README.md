@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Madhav P from India.
+- 👋 Hi, I’m Madhav P, an Data Scientist
 - I’m currently studying MSDS in University of San Francisco
 - I’m looking to collaborate on Machine Learning Projects
 
